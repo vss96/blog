@@ -41,8 +41,9 @@ params:
     Content: |
       - Welcome to my website!. This is the right place to discover more about me if you're interested. I share my thoughts, opinions and experiences as a developer.
       -
-      - Besides that, you'll find content on topics like - "Computer Vision", "Rust (the programming language)", "Software development practices" & so on.
-      -
+      - I used to run a site called Digispectra which basically covered TV shows, new tech and games.
+      So the idea behind this particular blog is to cover a wider plethora of topics and being an outlet for my brain :)
+      
   socialIcons:
   - name: twitter
     url: https://twitter.com/@vikas_sshetty

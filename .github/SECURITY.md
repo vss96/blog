@@ -112,18 +112,18 @@ Agreement][terms of service].
 
 <!-- Reference links -->
 
-[terms of service]: https://jarmos.netlify.app/terms-of-service-agreement/
+[terms of service]: https://vsslog.netlify.app/terms-of-service-agreement/
 [email with variables]:
-  mailto:somraj.mle@gmail.com?subject=Reporting%20a%20Security%20Vulnerability&body=List%20of%all%20the%20vulnerabilities
+  mailto:shettyvikas209@gmail.com?subject=Reporting%20a%20Security%20Vulnerability&body=List%20of%all%20the%20vulnerabilities
 [data deletion request guide]:
   https://support.google.com/analytics/answer/9450800?hl=en
-[email]: mailto:somraj.mle@gmail.com
+[email]: mailto:shettyvikas209@gmail.com
 [privacy policy - personal information use]:
-  https://jarmos.netlify.app/privacy-policy/#use-of-your-personal-information
+  https://vsslog.netlify.app/privacy-policy/#use-of-your-personal-information
 [privacy policy - how do we collect the data]:
-  https://jarmos.netlify.app/privacy-policy/#we-collect-information-in-different-ways
+  https://vsslog.netlify.app/privacy-policy/#we-collect-information-in-different-ways
 [privacy policy - info we collect]:
-  https://jarmos.netlify.app/privacy-policy/#information-we-collect
-[privacy policy]: https://jarmos.netlify.app/privacy-policy/
-[blog]: https://jarmos.netlify.app
-[blog repository]: https://github.com/Jarmos-san/blog
+  https://vsslog.netlify.app/privacy-policy/#information-we-collect
+[privacy policy]: https://vsslog.netlify.app/privacy-policy/
+[blog]: https://vsslog.netlify.app
+[blog repository]: https://github.com/vss96/blog
