@@ -35,7 +35,7 @@ params:
     android-chrome: icons/android-chrome-512x512.png
     disableHLJS: true
   label:
-    text: VSS's log
+    text: Vss's log
   homeInfoParams:
     Title: "Hi there! \U0001F44B"
     Content: |
