@@ -10,7 +10,7 @@ summary:
 
 Hi there! :wave: I'm Vikas Shetty (_you can call me Vss_).
 
-I work as a Software Developer @  [sahaj.ai][sahaj] where I help clients solve a variety of Engineering and ML problems. My area of interests include but not limited to Mathematics, Distrbuted systems, Computer Vision and Rust.
+I work as a Software Developer @  [sahaj.ai][sahaj] where I help clients solve a variety of Engineering and ML problems. My area of interests include but not limited to Mathematics, Distributed systems, Computer Vision and Rust.
 
 Besides programming, I'm also an amateur Technical Writer. My [blog](../blog/)
 is one source where you can find most of my up-to-date written content. 
@@ -26,7 +26,7 @@ Want to have a professional chat with me? Feel free to drop a DM! :smile:
 These are the platforms you can find me on:
 
 - Email: shettyvikas209@gmail.com
-- Linkedin: [https://www.linkedin.com/in/vikas-shetty-456b73114/][linkedin]
+- [LinkedIn][linkedin]
 - Twitter: [@vikas_sshetty][twitter]
 
 **Note**: I'm more active on Twitter, so you'll definitely want to DM me there.
@@ -35,3 +35,4 @@ These are the platforms you can find me on:
 <!-- Reference Links -->
 [sahaj]: https://sahaj.ai/
 [twitter]: https://twitter.com/@vikas_sshetty
+[linkedin]: https://www.linkedin.com/in/vikas-shetty-456b73114/
