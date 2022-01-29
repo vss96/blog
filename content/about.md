@@ -10,7 +10,7 @@ summary:
 
 Hi there! :wave: I'm Vikas Shetty (_you can call me Vss_).
 
-I work as a Software Developer @  [sahaj.ai][sahaj] where I help clients solve a variety of Engineering and ML problems. My area of interests include but not limited to Mathematics, Distributed systems, Computer Vision and Rust.
+I work as a Software Developer @ [sahaj.ai][sahaj] where I help clients solve a variety of Engineering and ML problems. My area of interests include but not limited to Mathematics, Distributed systems, Computer Vision and Rust.
 
 Besides programming, I'm also an amateur Technical Writer. My [blog](../blog/)
 is one source where you can find most of my up-to-date written content. 
