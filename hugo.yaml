@@ -1,7 +1,8 @@
-baseURL: "https://vsslog.dev/"
-languageCode: "en-us"
-title: "Vss Log"
-theme: "PaperMod"
+baseURL: https://vsslog.dev/
+languageCode: en-us
+title: Vss Log
+theme: ["PaperMod"]
+
 paginate: 5
 enableRobotsTXT: true
 enableEmoji: true
