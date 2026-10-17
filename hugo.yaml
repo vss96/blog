@@ -41,7 +41,7 @@ params:
   homeInfoParams:
     Title: "Hi there! \U0001F44B"
     Content: |
-      Hey, I’m Vikas. I write random things here.
+      I’m Vikas. I write random things here.
       
   socialIcons:
   - name: twitter
