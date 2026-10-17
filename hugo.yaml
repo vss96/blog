@@ -74,14 +74,10 @@ menu:
     identifier: blog
     url: blog/
     weight: 2
-  - name: Synapse
-    identifier: synapse
-    url: /synapse/
+  - name: Projects
+    identifier: projects
+    url: /projects/
     weight: 3
-  - name: Ohara
-    identifier: ohara
-    url: /ohara/
-    weight: 4
 
 markup:
   highlight:
