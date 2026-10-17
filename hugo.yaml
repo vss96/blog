@@ -41,9 +41,9 @@ params:
   homeInfoParams:
     Title: "Hi there! \U0001F44B"
     Content: |
-      Welcome! I’m Vikas, a software engineer. This blog is simply a place for me to spout my thoughts about whatever catches my attention.
+      I’m Vikas, a software engineer. This is my personal blog, where I write about whatever’s on my mind.
 
-      I used to run Digispectra, where I wrote about TV, technology, and games. Here, there’s no set subject—just whatever’s on my mind.
+      I used to run Digispectra, a site about TV, technology, and games. I don’t stick to one subject here; I write about whatever catches my interest.
       
   socialIcons:
   - name: twitter
