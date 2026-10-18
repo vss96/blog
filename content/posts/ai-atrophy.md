@@ -15,7 +15,7 @@ cover:
 draft: false
 ---
 
-It's pretty interesting to see how quickly things have changed. Last year, we were just starting to use AI to help us write code. I used Augment extensively and thought it was great—until its credit-based pricing got in the way. We eventually switched to Claude, and it's been striking to see how much the models have improved, from version 3 to 5.5.
+It's pretty interesting to see how quickly things have changed. Last year, we were just starting to use AI to help us write code. I used [Augment](https://www.augmentcode.com/) extensively and thought it was great—until its credit-based pricing got in the way. We eventually switched to Claude, and it's been striking to see how much the models have improved, from version 3 to 5.5.
 
 We also realised that we could ask agents to complete tasks end to end, with a person guiding them and reviewing the result. That raises a question: what happens when we don't guide them well, or when we don't have a strong foundation to build on?
 
